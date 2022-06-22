@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entrada_salida_datos_y_variables", "entrada_salida_datos_y_variables\entrada_salida_datos_y_variables.csproj", "{55524284-1756-46F6-8A7C-3B9607C82FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55524284-1756-46F6-8A7C-3B9607C82FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55524284-1756-46F6-8A7C-3B9607C82FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55524284-1756-46F6-8A7C-3B9607C82FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55524284-1756-46F6-8A7C-3B9607C82FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75DBC3FD-0824-4273-8D57-EBBD9211EF49}
+	EndGlobalSection
+EndGlobal
