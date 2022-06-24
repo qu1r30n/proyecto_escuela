@@ -1,0 +1,10 @@
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\1)entrada_salida_datos_y_variables\condicionales\condicionales\bin\Debug\condicionales.exe.config
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\1)entrada_salida_datos_y_variables\condicionales\condicionales\bin\Debug\condicionales.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\1)entrada_salida_datos_y_variables\condicionales\condicionales\bin\Debug\condicionales.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\1)entrada_salida_datos_y_variables\condicionales\condicionales\obj\Debug\condicionales.csproj.AssemblyReference.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\1)entrada_salida_datos_y_variables\condicionales\condicionales\obj\Debug\condicionales.Form1.resources
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\1)entrada_salida_datos_y_variables\condicionales\condicionales\obj\Debug\condicionales.Properties.Resources.resources
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\1)entrada_salida_datos_y_variables\condicionales\condicionales\obj\Debug\condicionales.csproj.GenerateResource.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\1)entrada_salida_datos_y_variables\condicionales\condicionales\obj\Debug\condicionales.csproj.CoreCompileInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\1)entrada_salida_datos_y_variables\condicionales\condicionales\obj\Debug\condicionales.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\1)entrada_salida_datos_y_variables\condicionales\condicionales\obj\Debug\condicionales.pdb
