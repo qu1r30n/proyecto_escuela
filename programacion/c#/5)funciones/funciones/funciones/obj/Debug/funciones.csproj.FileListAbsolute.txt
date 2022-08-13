@@ -1,0 +1,10 @@
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\5)funciones\funciones\funciones\bin\Debug\funciones.exe.config
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\5)funciones\funciones\funciones\bin\Debug\funciones.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\5)funciones\funciones\funciones\bin\Debug\funciones.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\5)funciones\funciones\funciones\obj\Debug\funciones.csproj.AssemblyReference.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\5)funciones\funciones\funciones\obj\Debug\funciones.Form1.resources
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\5)funciones\funciones\funciones\obj\Debug\funciones.Properties.Resources.resources
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\5)funciones\funciones\funciones\obj\Debug\funciones.csproj.GenerateResource.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\5)funciones\funciones\funciones\obj\Debug\funciones.csproj.CoreCompileInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\5)funciones\funciones\funciones\obj\Debug\funciones.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\5)funciones\funciones\funciones\obj\Debug\funciones.pdb

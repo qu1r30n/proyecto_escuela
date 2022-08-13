@@ -1,0 +1,10 @@
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\3)ciclos\ciclos\ciclos\bin\Debug\ciclos.exe.config
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\3)ciclos\ciclos\ciclos\bin\Debug\ciclos.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\3)ciclos\ciclos\ciclos\bin\Debug\ciclos.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\3)ciclos\ciclos\ciclos\obj\Debug\ciclos.csproj.AssemblyReference.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\3)ciclos\ciclos\ciclos\obj\Debug\ciclos.Form1.resources
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\3)ciclos\ciclos\ciclos\obj\Debug\ciclos.Properties.Resources.resources
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\3)ciclos\ciclos\ciclos\obj\Debug\ciclos.csproj.GenerateResource.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\3)ciclos\ciclos\ciclos\obj\Debug\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\3)ciclos\ciclos\ciclos\obj\Debug\ciclos.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\c#\3)ciclos\ciclos\ciclos\obj\Debug\ciclos.pdb
