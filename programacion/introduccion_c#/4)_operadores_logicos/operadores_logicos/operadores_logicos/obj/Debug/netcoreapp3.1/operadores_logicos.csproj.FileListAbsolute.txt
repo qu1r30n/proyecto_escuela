@@ -1,0 +1,14 @@
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp3.1\operadores_logicos.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp3.1\operadores_logicos.deps.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp3.1\operadores_logicos.runtimeconfig.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp3.1\operadores_logicos.runtimeconfig.dev.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp3.1\operadores_logicos.dll
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp3.1\operadores_logicos.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp3.1\operadores_logicos.csproj.AssemblyReference.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp3.1\operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp3.1\operadores_logicos.AssemblyInfoInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp3.1\operadores_logicos.AssemblyInfo.cs
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp3.1\operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp3.1\operadores_logicos.dll
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp3.1\operadores_logicos.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\4)_operadores_logicos\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp3.1\operadores_logicos.genruntimeconfig.cache

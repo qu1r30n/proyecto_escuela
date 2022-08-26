@@ -1,0 +1,14 @@
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\bin\Debug\netcoreapp3.1\tipos_de_datos.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\bin\Debug\netcoreapp3.1\tipos_de_datos.deps.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\bin\Debug\netcoreapp3.1\tipos_de_datos.runtimeconfig.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\bin\Debug\netcoreapp3.1\tipos_de_datos.runtimeconfig.dev.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\bin\Debug\netcoreapp3.1\tipos_de_datos.dll
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\bin\Debug\netcoreapp3.1\tipos_de_datos.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\obj\Debug\netcoreapp3.1\tipos_de_datos.csproj.AssemblyReference.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\obj\Debug\netcoreapp3.1\tipos_de_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\obj\Debug\netcoreapp3.1\tipos_de_datos.AssemblyInfoInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\obj\Debug\netcoreapp3.1\tipos_de_datos.AssemblyInfo.cs
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\obj\Debug\netcoreapp3.1\tipos_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\obj\Debug\netcoreapp3.1\tipos_de_datos.dll
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\obj\Debug\netcoreapp3.1\tipos_de_datos.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\3)_tipo_de_datos\tipos_de_datos\tipos_de_datos\obj\Debug\netcoreapp3.1\tipos_de_datos.genruntimeconfig.cache

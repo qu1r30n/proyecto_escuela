@@ -1,0 +1,10 @@
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\2)_hola_mundo_grafico\hola_mundo_grafico\hola_mundo_grafico\bin\Debug\hola_mundo_grafico.exe.config
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\2)_hola_mundo_grafico\hola_mundo_grafico\hola_mundo_grafico\bin\Debug\hola_mundo_grafico.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\2)_hola_mundo_grafico\hola_mundo_grafico\hola_mundo_grafico\bin\Debug\hola_mundo_grafico.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\2)_hola_mundo_grafico\hola_mundo_grafico\hola_mundo_grafico\obj\Debug\hola_mundo_grafico.csproj.AssemblyReference.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\2)_hola_mundo_grafico\hola_mundo_grafico\hola_mundo_grafico\obj\Debug\hola_mundo_grafico.Form1.resources
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\2)_hola_mundo_grafico\hola_mundo_grafico\hola_mundo_grafico\obj\Debug\hola_mundo_grafico.Properties.Resources.resources
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\2)_hola_mundo_grafico\hola_mundo_grafico\hola_mundo_grafico\obj\Debug\hola_mundo_grafico.csproj.GenerateResource.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\2)_hola_mundo_grafico\hola_mundo_grafico\hola_mundo_grafico\obj\Debug\hola_mundo_grafico.csproj.CoreCompileInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\2)_hola_mundo_grafico\hola_mundo_grafico\hola_mundo_grafico\obj\Debug\hola_mundo_grafico.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\introduccion_c#\2)_hola_mundo_grafico\hola_mundo_grafico\hola_mundo_grafico\obj\Debug\hola_mundo_grafico.pdb
