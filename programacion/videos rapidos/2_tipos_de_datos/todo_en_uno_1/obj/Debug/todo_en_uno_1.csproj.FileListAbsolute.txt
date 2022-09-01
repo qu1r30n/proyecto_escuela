@@ -1,0 +1,10 @@
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\videos rapidos\2_tipos_de_datos\todo_en_uno_1\bin\Debug\todo_en_uno_1.exe.config
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\videos rapidos\2_tipos_de_datos\todo_en_uno_1\bin\Debug\todo_en_uno_1.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\videos rapidos\2_tipos_de_datos\todo_en_uno_1\bin\Debug\todo_en_uno_1.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\videos rapidos\2_tipos_de_datos\todo_en_uno_1\obj\Debug\todo_en_uno_1.csproj.AssemblyReference.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\videos rapidos\2_tipos_de_datos\todo_en_uno_1\obj\Debug\todo_en_uno_1.Form1.resources
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\videos rapidos\2_tipos_de_datos\todo_en_uno_1\obj\Debug\todo_en_uno_1.Properties.Resources.resources
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\videos rapidos\2_tipos_de_datos\todo_en_uno_1\obj\Debug\todo_en_uno_1.csproj.GenerateResource.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\videos rapidos\2_tipos_de_datos\todo_en_uno_1\obj\Debug\todo_en_uno_1.csproj.CoreCompileInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\videos rapidos\2_tipos_de_datos\todo_en_uno_1\obj\Debug\todo_en_uno_1.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\videos rapidos\2_tipos_de_datos\todo_en_uno_1\obj\Debug\todo_en_uno_1.pdb

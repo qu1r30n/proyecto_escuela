@@ -1,0 +1,14 @@
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.deps.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.runtimeconfig.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.runtimeconfig.dev.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.dll
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\bin\Debug\netcoreapp3.1\hola_mundo.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.csproj.AssemblyReference.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.AssemblyInfoInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.AssemblyInfo.cs
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.csproj.CoreCompileInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.dll
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\hola_mundo\hola_mundo\obj\Debug\netcoreapp3.1\hola_mundo.genruntimeconfig.cache

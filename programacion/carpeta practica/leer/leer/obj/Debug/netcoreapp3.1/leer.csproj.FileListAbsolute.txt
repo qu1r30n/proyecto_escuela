@@ -1,0 +1,14 @@
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\obj\Debug\netcoreapp3.1\leer.csproj.AssemblyReference.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\obj\Debug\netcoreapp3.1\leer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\obj\Debug\netcoreapp3.1\leer.AssemblyInfoInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\obj\Debug\netcoreapp3.1\leer.AssemblyInfo.cs
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\obj\Debug\netcoreapp3.1\leer.csproj.CoreCompileInputs.cache
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\bin\Debug\netcoreapp3.1\leer.exe
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\bin\Debug\netcoreapp3.1\leer.deps.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\bin\Debug\netcoreapp3.1\leer.runtimeconfig.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\bin\Debug\netcoreapp3.1\leer.runtimeconfig.dev.json
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\bin\Debug\netcoreapp3.1\leer.dll
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\bin\Debug\netcoreapp3.1\leer.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\obj\Debug\netcoreapp3.1\leer.dll
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\obj\Debug\netcoreapp3.1\leer.pdb
+C:\Users\qu1r30n\Documents\GitHub\proyecto_escuela\programacion\carpeta practica\leer\leer\obj\Debug\netcoreapp3.1\leer.genruntimeconfig.cache
